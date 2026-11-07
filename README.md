@@ -94,8 +94,10 @@
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
-<h3 align="center">🖥️ On-Prem LLM Deployment</h3>
+<h3 align="center">🖥️ MLOps & On-Prem LLM Deployment</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/MLOps-1565C0?style=for-the-badge" alt="MLOps" />
+  <img src="https://img.shields.io/badge/LLMOps-6A1B9A?style=for-the-badge" alt="LLMOps" />
   <img src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA CUDA" />
   <img src="https://img.shields.io/badge/Docker%20%2F%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker / Compose" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
